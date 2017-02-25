@@ -88,7 +88,7 @@ Requirements
 References
 ----------
 
-.. [#] \C. Chang, C. Lin, LIBSVM: A library for support vector machines. ACM Transactions on Intelligent Systems and Technology. 2:27:1–27:27. 2011. Software available at http://www.csie.ntu.edu.tw/~cjlin/libsvm.
+.. [#] \C. Chang, C. Lin. LIBSVM: A library for support vector machines. ACM Transactions on Intelligent Systems and Technology. 2:27:1–27:27. 2011. Software available at http://www.csie.ntu.edu.tw/~cjlin/libsvm.
 .. [#] \A. Vedaldi, B. Fulkerson. VLFeat: An Open and Portable Library of Computer Vision Algorithms. 2008. http://www.vlfeat.org
 .. [#] Microsoft Visual Studio Image Library. https://www.microsoft.com/en-us/download/details.aspx?id=35825
 .. [#] Microsoft Check Gesture Icon. https://i-msdn.sec.s-msft.com/dynimg/IC5936.gif
